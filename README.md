@@ -317,3 +317,4 @@ branch1 3
 changes1
 changes2
 changes3
+Changes from second clone 1
