@@ -319,3 +319,4 @@ changes2
 changes3
 Changes from second clone 1
 Changes from second clone 2
+Changes from second clone 3
